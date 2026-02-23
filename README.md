@@ -8,9 +8,9 @@ My background is in Computer Engineering, and I thrive on translating complex bu
 
 ### 🚀 What I'm Focused On
 
-* 🌱 I’m currently a Master's student at **Franklin University** (Graduating Jan 2026).
-* 💡 I'm building and deploying machine learning models, with a special interest in MLOps and CI/CD/CT pipelines.
-* 👀 I am actively seeking full-time **Data Analyst** or **Software Developer** roles.
+* 🌱 Current State: Recently graduated and actively seeking full-time Data Scientist, Machine Learning Engineer, or Data Analyst roles.
+* 💡 Technical Passion: Building and deploying end-to-end ML pipelines with a heavy focus on MLOps (CI/CD/CT) to ensure model reliability in production.
+* 👀 Innovation: Exploring the intersection of NLP and predictive analytics to solve real-world fraud and risk challenges.
 
 ---
 
